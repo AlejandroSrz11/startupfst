@@ -33,9 +33,12 @@ h1{
 #c{
   display: flex;
   justify-content: center;
-  position: absolute;
-  top:110px;
-  right: 80px;
+  top:130px;
+}
+a{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .btn-danger{
   position: absolute;
